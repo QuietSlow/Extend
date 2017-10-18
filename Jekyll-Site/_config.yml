@@ -1,0 +1,34 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               QuietSlow
+email:               mark@quietslow.com
+tagline:             Lotus Nei Gong certified training in upstate NY
+description:         Qi Gong training in Ithaca, NY
+url:                 http://quietslow.com
+baseurl:             ''
+paginate:            5
+
+include: ['_pages']
+
+# About/contact
+author:
+  name:              Mark Reichert
+  url:               http://quietslow.com
+  email:             mark@quietslow.com
+
+# Custom vars
+version:             1.0.0
+
+# Fix build error
+github: [metadata]
+
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
