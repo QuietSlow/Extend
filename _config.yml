@@ -11,9 +11,10 @@ tagline:             Lotus Nei Gong certified training in upstate NY
 description:         Qi Gong training in Ithaca, NY
 url:                 http://quietslow.com
 baseurl:             ''
-paginate:            5
+#paginate:            5
+#paginate_path:       "page:num"
 
-include: ['_pages']
+include: ['_pages', '_assets', '_posts']
 
 # About/contact
 author:
@@ -29,6 +30,7 @@ github: [metadata]
 
 plugins:
   - jekyll-feed
+#  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock

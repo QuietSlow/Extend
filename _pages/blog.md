@@ -1,7 +1,17 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Blog
+permalink: /blog/
 ---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 <!--
 <div class="posts">
@@ -36,5 +46,7 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
 
+<!--
 -->
