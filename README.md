@@ -1,4 +1,4 @@
-# QuietSlow
+# Ithaca Nei Gong
 
-QuietSlow is the website of Mark Reichert's Qigong school, in Ithaca, NY.
+The website of Mark Reichert's Nei Gong school, in Ithaca, NY.
 
