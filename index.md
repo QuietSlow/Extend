@@ -18,7 +18,7 @@ Goals:
 I don't care about money. I'm simply looking for people of adventurous spirit to engage in practice.
 {%endcomment%}
 
-Lotus Nei Gong is a northern sect Daoist school and as such teaches "Ming before Xing" - restoration and refinement of the body before beginning cultivation of a person's nature. The practical implication of this is that we do quite a bit of body work - stretching, core training, movement, standing, breathing, etc. 
+Lotus Nei Gong is a northern sect Daoist school and as such teaches "Ming before Xing" - restoration and refinement of the body before beginning cultivation of a person's nature. The practical implication of this is that we do quite a bit of body work - stretching, core training, movement, standing, and breathing.
 
 
 {% comment %}
