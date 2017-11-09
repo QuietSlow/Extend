@@ -5,11 +5,11 @@
 #relative_permalinks: true
 
 # Setup
-title:               QuietSlow
-email:               mark@quietslow.com
-tagline:             Lotus Nei Gong certified training in upstate NY
+title:               Ithaca Nei Gong
+email:               mark@ithacaneigong.com
+tagline:             Lotus Nei Gong certified training
 description:         Qi Gong training in Ithaca, NY
-url:                 http://quietslow.com
+url:                 http://ithacaneigong.com
 baseurl:             ''
 #paginate:            5
 #paginate_path:       "page:num"
@@ -19,8 +19,8 @@ include: ['_pages', '_assets', '_posts']
 # About/contact
 author:
   name:              Mark Reichert
-  url:               http://quietslow.com
-  email:             mark@quietslow.com
+  url:               http://ithacaneigong.com
+  email:             mark@ithacaneigong.com
 
 # Custom vars
 version:             1.0.0
