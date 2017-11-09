@@ -5,9 +5,6 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item" >
-<!--
-    <img src="assets/fu1.png" alt="fu" >
--->
     <p>{{ site.description }}</p>
   </div>
 
@@ -28,11 +25,11 @@
       {% endif %}
     {% endfor %}
 
-<!--
+{% comment %}
     <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
--->
+{% endcomment %}
   </nav>
 
   <div class="sidebar-item">
