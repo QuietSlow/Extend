@@ -32,7 +32,7 @@ restoration and refinement of the body.
 
 {%endcomment%}
 
-The starting point for our practice is working to clear our bodies of imbalances and habitual tensions. The practical implication of this is that new students should be prepared to do quite a bit of body work - stretching, core training, movement, standing, and breathing.
+The starting point for our practice is working to clear our own body of imbalances and habitual tensions. The practical implication of this is that new students should be prepared to do quite a bit of physical work - stretching, core training, movement, standing, and breathing.
 
 
 {% comment %}
