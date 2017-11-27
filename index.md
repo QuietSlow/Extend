@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-Ithaca Nei Gong is a school of Daoist internal arts, offering ongoing classes in Qi Gong. We are affiliated with [Lotus Nei Gong](http://lotusneigong.com), the school of Damo Mitchell, and we attempt to teach as close to that lineage as possible.
+Ithaca Nei Gong is a school of Daoist internal development, offering ongoing classes in Qi Gong. We are affiliated with [Lotus Nei Gong](http://lotusneigong.com), the school of Damo Mitchell, and we attempt to teach as close to that lineage as possible.
 
 {%comment%}
 The word <i>neigong</i> (內功) is comprised of <i>nei</i>, meaning 'internal', and <i>gong</i> meaning 'skill acquired through long training'. Thus, neigong could be described as development of skill of your inner landscape. 
@@ -16,9 +16,23 @@ Goals:
 - To build a body capable of having the mind stably sit in it.
 
 I don't care about money. I'm simply looking for people of adventurous spirit to engage in practice.
+
+This needs work…
+<b>Lotus Nei Gong</b> is a northern sect Daoist school
+and as such teaches: 
+* ”Ming before Xing" - 
+restoration and refinement of the body 
+before beginning 
+cultivation of a person's nature. 
+
+* “Xing before Ming" - 
+cultivation of a person's nature
+before beginning 
+restoration and refinement of the body. 
+
 {%endcomment%}
 
-Lotus Nei Gong is a northern sect Daoist school and as such teaches "Ming before Xing" - restoration and refinement of the body before beginning cultivation of a person's nature. The practical implication of this is that we do quite a bit of body work - stretching, core training, movement, standing, and breathing.
+The starting point for our practice is working to clear our bodies of imbalances and habitual tensions. The practical implication of this is that new students should be prepared to do quite a bit of body work - stretching, core training, movement, standing, and breathing.
 
 
 {% comment %}
