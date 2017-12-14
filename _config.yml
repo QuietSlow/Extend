@@ -14,7 +14,7 @@ baseurl:             ''
 #paginate:            5
 #paginate_path:       "page:num"
 
-include: ['_pages', '_assets', '_posts']
+include: ['_pages', '_assets', '_posts', '_images']
 
 # About/contact
 author:

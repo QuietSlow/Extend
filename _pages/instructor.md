@@ -4,6 +4,8 @@ title: Instructor
 permalink: /instructor/
 ---
 
+![awakening dragon image]({{ site.url }}/_images/awakening dragon 2.jpg)
+
 Mark Reichert has been studying under [Lotus Nei Gong](http://lotusneigong.com) technical director Damo Mitchell since 2012, and regularly attends Lotus Nei Gong training events in North America and Europe.
 
 Mark is [certified](http://lotusneigong.com/branches) to teach the Lotus Nei Gong Level 1 Qi Gong syllabus.
