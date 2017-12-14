@@ -5,6 +5,8 @@ title: Home
 
 # Welcome
 
+![coiling snake image]({{ site.url }}/_images/coiling snake.jpg)
+
 Ithaca Nei Gong is a school of Daoist internal development, offering ongoing classes in Qi Gong. We are affiliated with [Lotus Nei Gong](http://lotusneigong.com), the school of Damo Mitchell, and we attempt to teach as close to that lineage as possible.
 
 {%comment%}
@@ -30,10 +32,11 @@ cultivation of a person's nature
 before beginning 
 restoration and refinement of the body. 
 
+![obligatory low flying dragon image]({{ site.url }}/_images/low flying dragon.jpg)
+
 {%endcomment%}
 
 The starting point for our practice is working to clear our own body of imbalances and habitual tensions. The practical implication of this is that new students should be prepared to do quite a bit of physical work - stretching, core training, movement, standing, and breathing.
-
 
 {% comment %}
 <div class="posts">
