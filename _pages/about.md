@@ -16,7 +16,7 @@ We next focus on the two main aspects of qigong practice - stillness and movemen
 
 In a single class, we may only use one or two movements. This is because we are aiming for a depth of effect in training, rather than accumulating a large portfolio of movements that we’ve only just touched the surface of.
 
-As we enter deeper into the process, there are elements that arise which can be fairly heavy. It is best if the students can treat these arisings as essentially ridiculous. When considering training with us, you should ask yourself if you have a desire to train deeply and if you have an adventurous spirit.
+Lotus Nei Gong is a powerful system. As we enter deeper into the process, there are elements that arise which can be fairly heavy. It is best if the students can treat these arisings as essentially ridiculous. When considering training with us, you should ask yourself if you have a desire to train deeply and if you have an adventurous spirit.
 
 
 ![obligatory low flying dragon image]({{ site.url }}/_images/low flying dragon.jpg)
