@@ -15,6 +15,8 @@ Currently, we’re meeting:
 
 The training is at Mark’s house, in the village of Lansing. If you’d like to join, email [Mark](mailto:info@ithacaneigong.com) for details.
 
+The suggested donation is $5-15/class. 
+
 {%comment%}
 ![heavenly bow image]({{ site.url }}/_images/heavenly bow.jpg)
 {%endcomment%}
