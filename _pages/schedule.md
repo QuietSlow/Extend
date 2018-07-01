@@ -6,7 +6,12 @@ permalink: /schedule/
 ---
 
 Our schedule is evolving to fit the needs of those who’ve expressed interest in training.
+
+{%comment%}
 Currently, we’re meeting:
+{%endcomment%}
+
+Currently, we’re on [summer break]({{ site.url }}/2018/07/01/summer-break.html), but when we resume in mid-August, we’ll be meeting:
 
 | ---       | ---        |
 | Wednesday | 9-10:30 am |
