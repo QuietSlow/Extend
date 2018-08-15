@@ -7,16 +7,17 @@ permalink: /schedule/
 
 Our schedule is evolving to fit the needs of those who’ve expressed interest in training.
 
-{%comment%}
 Currently, we’re meeting:
-{%endcomment%}
-
-Currently, we’re on [summer break]({{ site.url }}/2018/07/01/summer-break.html), but when we resume in mid-August, we’ll be meeting:
 
 | ---       | ---        |
+| Saturday  | 3-4:30 pm  |
+
+The Wednesday and Friday classes are on hold, pending a schedule reshuffling.
+
+{%comment%}
 | Wednesday | 9-10:30 am |
 | Friday    | 7-8:30 am  |
-| Saturday  | 3-4:30 pm  |
+{%endcomment%}
 
 The training is at Mark’s house, in the village of Lansing. If you’d like to join, email [Mark](mailto:info@ithacaneigong.com) for details.
 
