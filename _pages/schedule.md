@@ -11,12 +11,13 @@ Currently, we’re meeting:
 
 | ---       | ---        |
 | Saturday  | 3-4:30 pm  |
+| Wednesday | 9-10:30 am |
+| Friday    | 9-10:30 am  |
 
-The Wednesday and Friday classes are on hold, pending a schedule reshuffling.
 
 {%comment%}
-| Wednesday | 9-10:30 am |
-| Friday    | 7-8:30 am  |
+The Wednesday and Friday classes are on hold, pending a schedule reshuffling.
+
 {%endcomment%}
 
 The training is at Mark’s house, in the village of Lansing. If you’d like to join, email [Mark](mailto:info@ithacaneigong.com) for details.
