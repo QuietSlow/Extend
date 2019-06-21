@@ -9,18 +9,18 @@ permalink: /August2019/
 # Asheville, NC - August 2019
 Over two days in August, Lotus Nei Gong instructors Erin Johnson and Mark Reichert will be teaching Daoist Nei Gong, a process of internal transformation. We will be using the method of Qi Gong - short, precise movement sequences and standing postures, as the vehicle for initiating this process.
 
-An emphasis will be placed on helping participants to bring this material into their own daily practice.
+An emphasis will be placed on helping participants bring this material into their own daily practice.
 
 This course is applicable both for people completely new to Lotus Nei Gong and those with prior experience.
 
 Please note that, though the training is often very rewarding, it can also be challenging and uncomfortable. The ideal student will be “adventurous of spirit”.
 
 
-# When / Where
+# When and Where
 Training will be at [Town & Mountain Training Center](http://ashevilletrainingcenter.com/directions.html){:target="_blank"}, 261 Asheland Avenue, from 9am - 5pm on Sat/Sun, August 17/18. There will be a break for lunch each day.
 
 
-# Cost / How to join / Contact Us
+# Sign up / Contact Us
 The cost for the weekend will be $300.
 If you would like to reserve a place on the course, or if you have any questions about the course, please email us at [lng.erinmark@gmail.com](mailto:lng.erinmark@gmail.com). Attendance will be limited to 25 students.
 
