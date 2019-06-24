@@ -19,9 +19,11 @@ Please note that, though the training is often very rewarding, it can also be ch
 # When and Where
 Training will be at [Town & Mountain Training Center](http://ashevilletrainingcenter.com/directions.html){:target="_blank"}, 261 Asheland Avenue, from 9am - 5pm on Sat/Sun, August 17/18. There will be a break for lunch each day.
 
+Accommodations are not provided as part of the event. There are many available places to stay nearby.
+
 
 # Sign up / Contact Us
-The cost for the weekend will be $300.
+The cost for the weekend will be $250.
 If you would like to reserve a place on the course, or if you have any questions about the course, please email us at [lng.erinmark@gmail.com](mailto:lng.erinmark@gmail.com). Attendance will be limited to 25 students.
 
 
