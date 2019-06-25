@@ -17,7 +17,7 @@ Please note that, though the training is often very rewarding, it can also be ch
 
 
 # When and Where
-Training will be at [Town & Mountain Training Center](http://ashevilletrainingcenter.com/directions.html){:target="_blank"}, 261 Asheland Avenue, from 9am - 5pm on Sat/Sun, August 17/18. There will be a break for lunch each day.
+Training will be at [Town & Mountain Training Center](http://ashevilletrainingcenter.com/directions.html){:target="_blank"}, 261 Asheland Avenue, from 9am - 5pm on Sat/Sun, August 24/25. There will be a break for lunch each day.
 
 Accommodations are not provided as part of the event. There are many available places to stay nearby.
 
