@@ -1,9 +1,30 @@
 ---
-#layout: page
-layout: default
-title: Asheville Seminar - August 17/18
+layout: event
+#layout: default
+title: Asheville Seminar - August 24/25
 permalink: /August2019/
 #menuOption: xxx
+
+schemadotorg:
+ "@context": http://schema.org/
+ "@type": Event
+ location:
+   - "@type": Place
+     name: Town & Mountain Training Center
+     address: 261 Asheland Avenue, Asheville, NC 
+ startDate: 2019-08-24 9:00:00 +0500
+ endDate: 2019-08-25 17:00:00 +0500
+ performer: ["Mark Reichert", "Erin Johnson"]
+ offers:
+   price: "250"
+   priceCurrency: "USD"
+   availability: "http://schema.org/LimitedAvailability"
+   validFrom: 2019-06-27
+   url: https://www.facebook.com/events/452420262211870
+ about: "Lotus Nei Gong seminar"
+ audience: ["qi gong", "qigong", "nei gong", "neigong", "Lotus Nei Gong"]
+ name: "Asheville, NC - August 24/25, 2019"
+ description: "Lotus Nei Gong seminar in Asheville, NC with Erin Johnson and Mark Reichert"
 ---
 
 # Asheville, NC - August 2019
