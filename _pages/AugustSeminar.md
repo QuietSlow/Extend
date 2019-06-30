@@ -25,6 +25,7 @@ schemadotorg:
  audience: ["qi gong", "qigong", "nei gong", "neigong", "Lotus Nei Gong"]
  name: "Asheville, NC - August 24/25, 2019"
  description: "Lotus Nei Gong seminar in Asheville, NC with Erin Johnson and Mark Reichert"
+ image: "http://ashevilletrainingcenter.com/sitebuilder/images/LOGOPHOTO-600x221.jpg"
 ---
 
 # Asheville, NC - August 2019
