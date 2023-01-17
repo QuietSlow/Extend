@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Practice again for a bit
-date:   2022-8-11 1:00:00 -0600
+date:   2023-1-17 15:00:00 -0600
 #categories: qigong update school training
 ---
 
