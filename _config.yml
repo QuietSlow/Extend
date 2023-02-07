@@ -16,7 +16,7 @@ baseurl:             ''
 
 include: ['_pages', '_assets', '_posts', '_images']
 
-google_analytics:    UA-114428396-1
+google_analytics:    352865225
 
 # About/contact
 author:
