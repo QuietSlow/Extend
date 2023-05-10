@@ -14,7 +14,7 @@ Our schedule is evolving to fit the needs of those who’ve expressed interest i
 Currently, we’re meeting:
 
 | ---       | ---        |
-| Saturday  | 3-4:30 pm  |
+| Saturday  | 10-11:30 am  |
 | Wednesday | 10-11:30 am  |
 
 The training is at Mark’s house, in the village of Lansing. If you’d like to join, email [Mark](mailto:info@ithacaneigong.com) for details.
