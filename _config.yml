@@ -5,11 +5,11 @@
 #relative_permalinks: true
 
 # Setup
-title:               Ithaca Nei Gong
-email:               mark@ithacaneigong.com
-tagline:             Lotus Nei Gong certified training
-description:         Qi Gong training in Ithaca, NY
-url:                 http://ithacaneigong.com
+title:               "Ithaca Nei Gong"
+email:               "mark@ithacaneigong.com"
+tagline:             "Lotus Nei Gong certified training"
+description:         "Qi Gong training in Ithaca, NY"
+url:                 "http://ithacaneigong.com"
 baseurl:             ''
 #paginate:            5
 #paginate_path:       "page:num"
@@ -20,9 +20,9 @@ google_analytics:    G-HT1MFFCZP5
 
 # About/contact
 author:
-  name:              Mark Reichert
-  url:               http://ithacaneigong.com
-  email:             mark@ithacaneigong.com
+  name:              "Mark Reichert"
+  url:               "http://ithacaneigong.com"
+  email:             "mark@ithacaneigong.com"
 
 # Custom vars
 version:             1.0.0
